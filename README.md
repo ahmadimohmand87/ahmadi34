@@ -1,1 +1,4 @@
-# ahmadi34
+- `rm -rf BXI`
+- `git clone https://github.com/AKING110/BXI.git`
+- `cd BXI`
+- `python bxi`
